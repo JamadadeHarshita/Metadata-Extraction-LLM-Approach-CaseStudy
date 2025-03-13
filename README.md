@@ -1,4 +1,4 @@
-# **A Large Language Model approach to extract Biographical Transcripts **
+# A Large Language Model approach to extract Biographical Transcripts 
 
 ## **Project Overview**  
 The **German Memory** archive, housed at **FernUniversität in Hagen**, preserves **subjective memories** such as **biographical interviews, autobiographies, diaries, and letters** related to sociopolitical events in Germany and beyond. This project integrates AI-driven metadata extraction to enhance accessibility and analysis of these historical materials.
@@ -50,6 +50,9 @@ After processing, the extracted metadata is transformed into a structured format
 
 
 
+
+
+
 ## **System Architecture**  
 The system architecture is designed to efficiently process and extract structured metadata from interview transcripts while preserving context.  
 
@@ -70,6 +73,10 @@ The system architecture is designed to efficiently process and extract structure
 4. **Output Formatting**:  
    - The extracted metadata is **refined and structured into a standardized format (CSV, JSON)**.  
    - This ensures **ease of storage and retrieval** for researchers.
+
+
+
+
   
 
 
@@ -100,6 +107,10 @@ This study extracts important details from German interview transcripts using LL
 
 ## E. Post Processing
 - **Final Steps**: The extracted metadata was compiled into a DataFrame and exported as a CSV file for structured storage and further analysis.
+
+
+
+
 
 
 
