@@ -56,7 +56,7 @@ After processing, the extracted metadata is transformed into a structured format
 ## **System Architecture**  
 The system architecture is designed to efficiently process and extract structured metadata from interview transcripts while preserving context.<br><br>
 
-![System Architecture]("C:/Users/dhans/Downloads/image (1).png")
+
 
 
 ### **Workflow**  
