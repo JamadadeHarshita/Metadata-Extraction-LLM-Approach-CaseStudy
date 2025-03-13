@@ -56,7 +56,7 @@ After processing, the extracted metadata is transformed into a structured format
 ## **System Architecture**  
 The system architecture is designed to efficiently process and extract structured metadata from interview transcripts while preserving context.<br><br>
 
-
+![System Architecture](image__1_edge.png)
 
 
 ### **Workflow**  
@@ -103,7 +103,7 @@ This study extracts important details from German interview transcripts using LL
 - **Challenge**: Conventional chunking techniques led to inconsistencies.
 - **Approach**: Used TF-IDF vectorization and cosine similarity to identify natural segment boundaries based on content shifts.
   - Segmentation dynamically adapts to thematic shifts in the conversation, ensuring topic coherence.
-  - Visualized segmentation process shown in Figure 2.
+  - Visualized segmentation process shown in Figure .
 
 ## D. Chunk-wise Metadata Extraction
 - **JSON-based Approach**: Used JSON schema to ensure structured output and map extracted details to predefined fields, improving accuracy and consistency.
