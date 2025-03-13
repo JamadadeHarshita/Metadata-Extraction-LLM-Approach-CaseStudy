@@ -1,7 +1,7 @@
 # A Large Language Model approach to extract Biographical Transcripts 
 
 ## **Project Overview**  
-The **German Memory** archive, housed at **FernUniversität in Hagen**, preserves **subjective memories** such as **biographical interviews, autobiographies, diaries, and letters** related to sociopolitical events in Germany and beyond. This project integrates AI-driven metadata extraction to enhance accessibility and analysis of these historical materials.
+The **German Memory** archive, housed at **FernUniversität in Hagen**, preserves **subjective memories** such as **biographical interviews, autobiographies, diaries, and letters** related to sociopolitical events in Germany and beyond. This project integrates AI-driven metadata extraction to enhance accessibility and analysis of these historical materials.<br><br>
 
 
 
@@ -45,7 +45,7 @@ After processing, the extracted metadata is transformed into a structured format
 | **Family and Relationship Data** | Marital History, Children’s Birth Years |
 | **Political and Social Engagement** | Political Orientation, Memberships |
 | **Historical and Wartime Involvement** | Military Service, Nazi-related Organizations |
-| **Parental and Partner Information** | Parents’ Background, Partner’s Engagement |
+| **Parental and Partner Information** | Parents’ Background, Partner’s Engagement |<br><br>
 
 
 
@@ -72,7 +72,7 @@ The system architecture is designed to efficiently process and extract structure
 
 4. **Output Formatting**:  
    - The extracted metadata is **refined and structured into a standardized format (CSV, JSON)**.  
-   - This ensures **ease of storage and retrieval** for researchers.
+   - This ensures **ease of storage and retrieval** for researchers.<br><br>
 
 
 
@@ -106,7 +106,7 @@ This study extracts important details from German interview transcripts using LL
 - **JSON-based Approach**: Used JSON schema to ensure structured output and map extracted details to predefined fields, improving accuracy and consistency.
 
 ## E. Post Processing
-- **Final Steps**: The extracted metadata was compiled into a DataFrame and exported as a CSV file for structured storage and further analysis.
+- **Final Steps**: The extracted metadata was compiled into a DataFrame and exported as a CSV file for structured storage and further analysis.<br><br>
 
 
 
@@ -137,4 +137,4 @@ The process of extracting structured metadata from German interview transcripts 
 - **Multi-Model Ensemble Approach**: Using an ensemble of models for metadata extraction, followed by aggregation and statistical validation, could improve accuracy.
 - **Improved Post-Processing**: Further refining data cleaning and validation processes could improve the quality of extracted metadata.
 
-These improvements aim to enhance the accuracy, adaptability, and efficiency of the metadata extraction pipeline.
+These improvements aim to enhance the accuracy, adaptability, and efficiency of the metadata extraction pipeline.<br><br>
