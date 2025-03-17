@@ -38,10 +38,10 @@ The project utilizes interview transcripts stored in tab-separated values (TSV) 
 ## **Architecture Overview**
 Below is a high-level view of the **system workflow**:
 
-📌 **Preprocessing** → Cleans raw transcripts.  
-📌 **Chunking Strategy** → Segments interviews into **contextual chunks**.  
-📌 **Metadata Extraction** → Uses **LLM-driven AI** to extract structured information.  
-📌 **Post-Processing** → Outputs data in **CSV/JSON** format for easy access.
+**Preprocessing** → Cleans raw transcripts.  
+**Chunking Strategy** → Segments interviews into **contextual chunks**.  
+**Metadata Extraction** → Uses **LLM-driven AI** to extract structured information.  
+**Post-Processing** → Outputs data in **CSV/JSON** format for easy access.
 
 ---
 
