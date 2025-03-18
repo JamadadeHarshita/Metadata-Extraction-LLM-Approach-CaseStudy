@@ -72,7 +72,7 @@ Below is a high-level view of the **system workflow**:
 
 3. **Run the Metadata Extraction Pipeline**:
    ```bash
-   python main.py
+   python MetadataExtraction.py
    ```
    *(Note: The repository also contains an API file using Groq for testing, but it is not required for the main execution pipeline.)*
 
