@@ -76,8 +76,6 @@ Below is a high-level view of the **system workflow**:
    ```
    *(Note: The repository also contains an API file using Groq for testing, but it is not required for the main execution pipeline.)*
 
-4. **Explore the Extracted Metadata** in the `results/` folder.
-
 ---
 
 ## **Contributors**
